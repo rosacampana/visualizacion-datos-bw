@@ -1,0 +1,87 @@
+body {
+  background-color: #f8f9fa;
+}
+.vis-container {
+  background-color: white;
+}
+
+h2,
+.nav-link,
+.title-color {
+  color: #1f618d !important;
+}
+
+a,
+.nav-link.active {
+  color: white !important;
+}
+.nav-pills .nav-link.active {
+  background-color: #1f618d !important;
+}
+
+h3 {
+  color: #6c757d !important;
+}
+
+#anios-btns button {
+  background-color: #f8f9fa !important;
+  color: #6c757d !important;
+  margin-left: 5px;
+}
+#anios-btns .active {
+  color: #1f618d !important;
+  font-weight: bold !important;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: #f1f3f3;
+  stroke: #777;
+  stroke-width: 3px;
+}
+.focus text {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.hover-line {
+  stroke: #777;
+  stroke-width: 2px;
+  stroke-dasharray: 3, 3;
+}
+
+#selections .col-md-4 {
+  padding-top: 12px;
+  padding-bottom: 10px;
+}
+
+.line {
+  fill: none;
+  stroke-width: 3px;
+}
+.ciudad {
+  cursor: pointer;
+}
+.ciudad:hover {
+  font-size: 12px;
+}
