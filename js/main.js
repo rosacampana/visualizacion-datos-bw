@@ -5,7 +5,7 @@ let donutChart;
 let lineChart;
 let barChart;
 let date1 = "1/1/2021 00:00";
-let date2 = "1/30/2021 00:00";
+let date2 = "1/30/2021 23:59";
 let selectedYear = 2020;
 let selectedCity = "";
 let range1 = 10;
@@ -56,6 +56,7 @@ d3.csv("data/dataTraficoPorCiudad.csv").then((data) => {
     .entries(calls);
   donutChart = new DonutChart("#left-clasificacion");
   barChart = new BarChart("right-clasificacion");
+  putSliderLabels();
 });
 
 d3.csv("data/dataServiciosPorCiudad.csv").then((data) => {
@@ -78,7 +79,7 @@ function getInitialData() {
   range2 = Math.round(2 * range1);
 
   bajo = [min, range1];
-  medio = [range1, range2];
+  medio = [range1 + 1, range2 - 1];
   alto = [range2, max];
   console.log("ranges initial", bajo, medio, alto);
   return dataAnio.map(getType);
@@ -87,10 +88,29 @@ function getDataByRanges() {
   let min = d3.min(dataAnio, (d) => d.trafico);
   let max = d3.max(dataAnio, (d) => d.trafico);
   bajo = [min, range1];
-  medio = [range1, range2];
+  medio = [range1 + 1, range2 - 1];
   alto = [range2, max];
-  console.log("ranges by slider", bajo, medio, alto);
+
+  putSliderLabels();
   return dataAnio.map(getType);
+}
+
+function putSliderLabels() {
+  let labels_range =
+    "<span class='bajo'><b>Bajo:</b> " +
+    bajo[0] +
+    " - " +
+    bajo[1] +
+    "</span>  <span class='medio'><b>Medio:</b> " +
+    medio[0] +
+    " - " +
+    medio[1] +
+    "</span>  <span class='alto'><b>Alto:</b> " +
+    alto[0] +
+    " - " +
+    alto[1] +
+    "</span> (Gbps)";
+  $("#labels-range").html(labels_range);
 }
 
 function getDataByCiudad() {
@@ -109,7 +129,7 @@ function getDataByCiudad() {
 function getType(d) {
   var clasificacion = "";
 
-  if (d.trafico >= bajo[0] && d.trafico < bajo[1]) {
+  if (d.trafico >= bajo[0] && d.trafico <= bajo[1]) {
     clasificacion = "bajo";
   } else {
     if (d.trafico >= medio[0] && d.trafico <= medio[1]) {
@@ -131,10 +151,15 @@ $(function () {
   $('input[name="daterange"]').daterangepicker(
     {
       opens: "left",
+      timePicker: true,
+      locale: {
+        format: "MM/DD/YYYY HH:mm",
+      },
     },
+
     function (start, end, label) {
-      date1 = start.format("MM/DD/YYYY 00:00");
-      date2 = end.format("MM/DD/YYYY 23:59");
+      date1 = start.format("MM/DD/YYYY HH:mm");
+      date2 = end.format("MM/DD/YYYY HH:mm");
 
       lineChart.updateVis();
     }

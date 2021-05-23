@@ -10,7 +10,7 @@ class LineChart {
     const vis = this;
 
     vis.MARGIN = { LEFT: 100, RIGHT: 100, TOP: 30, BOTTOM: 30 };
-    vis.WIDTH = 800 - vis.MARGIN.LEFT - vis.MARGIN.RIGHT;
+    vis.WIDTH = 1200 - vis.MARGIN.LEFT - vis.MARGIN.RIGHT;
     vis.HEIGHT = 350 - vis.MARGIN.TOP - vis.MARGIN.BOTTOM;
     vis.tooltip = { width: 100, height: 100, x: 10, y: -30 };
 
@@ -83,8 +83,6 @@ class LineChart {
       );
     });
 
-    console.log("filter dates: ", vis.sliderValuesFormat);
-    console.log("data filtered total", vis.dataTimeFiltered.length);
     vis.t = d3.transition().duration(1000);
 
     // update scales
@@ -147,20 +145,37 @@ class LineChart {
       .attr("width", vis.WIDTH)
       .attr("height", vis.HEIGHT)
       .on("mouseover", () => vis.focus.style("display", null))
-      .on("mouseout", () => vis.focus.style("display", "none"))
+      .on("mouseout", () =>
+        vis.focus
+          .style("display", "none")
+          .style("left", d3.event.pageX + "px")
+          .style("top", d3.event.pageY - 28 + "px")
+      )
       .on("mousemove", mousemove);
 
     function mousemove() {
       const x0 = vis.x.invert(d3.mouse(this)[0]);
       const i = vis.bisectDate(vis.dataTimeFiltered, x0, 1);
-      const d0 = vis.dataTimeFiltered[i - 1];
-      const d1 = vis.dataTimeFiltered[i];
+
+      const d0 = vis.dataTimeFiltered[i - 1]
+        ? vis.dataTimeFiltered[i - 1]
+        : { "": "" };
+      const d1 = vis.dataTimeFiltered[i] ? vis.dataTimeFiltered[i] : { "": "" };
       const d = x0 - d0.fecha > d1.fecha - x0 ? d1 : d0;
       vis.focus.attr(
         "transform",
         `translate(${vis.x(d.fecha)}, ${vis.y(d.trafico)})`
       );
-      vis.focus.select("text").text(d.trafico); // .text(d.trafico + "- " + vis.formatTime(new Date(d.fecha).getTime()));
+      vis.focus
+        .select("text")
+        .html(
+          "<tspan  x='0' dy='20'>" +
+            d.trafico +
+            " Gbps </tspan>" +
+            "<tspan  x='0' dy='20'>" +
+            vis.formatTime(new Date(d.fecha).getTime()) +
+            " </tspan>"
+        ); //text(d.trafico); // .html(d.trafico + "<br/> " + vis.formatTime(new Date(d.fecha).getTime()));
       vis.focus
         .select(".x-hover-line")
         .attr("y2", vis.HEIGHT - vis.y(d.trafico));
