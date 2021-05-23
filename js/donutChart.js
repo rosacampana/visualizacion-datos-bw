@@ -150,6 +150,9 @@ class DonutChart {
 
       dataCiudad = getDataByCiudad();
       barChart.updateVis();
+      $("#right-clasificacion-title").text(
+        "Servicios para la ciudad " + selectedCity
+      );
     });
   }
   addLegend() {

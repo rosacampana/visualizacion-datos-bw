@@ -10,7 +10,7 @@ class BarChart {
   initVis() {
     const vis = this;
 
-    vis.MARGIN = { LEFT: 60, RIGHT: 50, TOP: 100, BOTTOM: 30 };
+    vis.MARGIN = { LEFT: 60, RIGHT: 50, TOP: 60, BOTTOM: 30 };
     vis.WIDTH = 650 - vis.MARGIN.LEFT - vis.MARGIN.RIGHT;
     vis.HEIGHT = 430 - vis.MARGIN.TOP - vis.MARGIN.BOTTOM;
 

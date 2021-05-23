@@ -1,193 +1,881 @@
 anio,ciudad,servicio,valor
-2020,Guayaquil,Netflix,88
-2020,Guayaquil,Facebook,155
-2020,Guayaquil,Google,121
-2020,Guayaquil,Zoom,55
-2020,Guayaquil,Disney+,53
-2020,Guayaquil,Akamai,72
-2020,Guayaquil,Microsoft,46
-2020,Guayaquil,Otros Servicios,40
-2020,Quito,Netflix,75
-2020,Quito,Facebook,144
-2020,Quito,Google,153
-2020,Quito,Zoom,42
-2020,Quito,Disney+,40
-2020,Quito,Akamai,55
-2020,Quito,Microsoft,31
-2020,Quito,Otros Servicios,26
-2020,Manta,Netflix,52.5
-2020,Manta,Facebook,100.8
-2020,Manta,Google,107.1
-2020,Manta,Zoom,29.4
-2020,Manta,Disney+,28
-2020,Manta,Akamai,38.5
-2020,Manta,Microsoft,21.7
-2020,Manta,Otros Servicios,18.2
-2020,Portoviejo,Netflix,41.25
-2020,Portoviejo,Facebook,79.2
-2020,Portoviejo,Google,84.15
-2020,Portoviejo,Zoom,23.1
-2020,Portoviejo,Disney+,22
-2020,Portoviejo,Akamai,30.25
-2020,Portoviejo,Microsoft,17.05
-2020,Portoviejo,Otros Servicios,14.3
-2020,Riobamba,Netflix,32.484375
-2020,Riobamba,Facebook,60.276
-2020,Riobamba,Google,57.490125
-2020,Riobamba,Zoom,19.04925
-2020,Riobamba,Disney+,18.235
-2020,Riobamba,Akamai,24.941875
-2020,Riobamba,Microsoft,14.870875
-2020,Riobamba,Otros Servicios,12.68525
-2020,Salinas,Netflix,25.50
-2020,Salinas,Facebook,48.96
-2020,Salinas,Google,52.02
-2020,Salinas,Zoom,14.28
-2020,Salinas,Disney+,13.60
-2020,Salinas,Akamai,18.70
-2020,Salinas,Microsoft,10.54
-2020,Salinas,Otros Servicios,8.84
-2020,Alausi,Netflix,7.35
-2020,Alausi,Facebook,14.112
-2020,Alausi,Google,14.994
-2020,Alausi,Zoom,4.116
-2020,Alausi,Disney+,3.92
-2020,Alausi,Akamai,5.39
-2020,Alausi,Microsoft,3.038
-2020,Alausi,Otros Servicios,2.548
-2020,Atuntaqui,Netflix,12.32
-2020,Atuntaqui,Facebook,21.7
-2020,Atuntaqui,Google,16.94
-2020,Atuntaqui,Zoom,7.7
-2020,Atuntaqui,Disney+,7.42
-2020,Atuntaqui,Akamai,10.08
-2020,Atuntaqui,Microsoft,6.44
-2020,Atuntaqui,Otros Servicios,5.6
-2020,Babahoyo,Netflix,3.52
-2020,Babahoyo,Facebook,6.2
-2020,Babahoyo,Google,4.84
-2020,Babahoyo,Zoom,2.2
-2020,Babahoyo,Disney+,2.12
-2020,Babahoyo,Akamai,2.88
-2020,Babahoyo,Microsoft,1.84
-2020,Babahoyo,Otros Servicios,1.6
-2020,Jipijapa,Netflix,9.68
-2020,Jipijapa,Facebook,17.05
-2020,Jipijapa,Google,13.31
-2020,Jipijapa,Zoom,6.05
-2020,Jipijapa,Disney+,5.83
-2020,Jipijapa,Akamai,7.92
-2020,Jipijapa,Microsoft,5.06
-2020,Jipijapa,Otros Servicios,4.4
-2020,Virgendefatima,Netflix,4.4
-2020,Virgendefatima,Facebook,7.75
-2020,Virgendefatima,Google,6.05
-2020,Virgendefatima,Zoom,2.75
-2020,Virgendefatima,Disney+,2.65
-2020,Virgendefatima,Akamai,3.6
-2020,Virgendefatima,Microsoft,2.3
-2020,Virgendefatima,Otros Servicios,2
-2020,Shushufindi,Netflix,2.64
-2020,Shushufindi,Facebook,4.65
-2020,Shushufindi,Google,3.63
-2020,Shushufindi,Zoom,1.65
-2020,Shushufindi,Disney+,1.59
-2020,Shushufindi,Akamai,2.16
-2020,Shushufindi,Microsoft,1.38
-2020,Shushufindi,Otros Servicios,1.2
-2021,Guayaquil,Netflix,96.8
-2021,Guayaquil,Facebook,170.5
-2021,Guayaquil,Google,133.1
-2021,Guayaquil,Zoom,60.5
-2021,Guayaquil,Disney+,58.3
-2021,Guayaquil,Akamai,79.2
-2021,Guayaquil,Microsoft,50.6
-2021,Guayaquil,Otros Servicios,44
-2021,Quito,Netflix,82.5
-2021,Quito,Facebook,158.4
-2021,Quito,Google,168.3
-2021,Quito,Zoom,46.2
-2021,Quito,Disney+,44
-2021,Quito,Akamai,60.5
-2021,Quito,Microsoft,34.1
-2021,Quito,Otros Servicios,28.6
-2021,Manta,Netflix,57.75
-2021,Manta,Facebook,110.88
-2021,Manta,Google,117.81
-2021,Manta,Zoom,32.34
-2021,Manta,Disney+,30.8
-2021,Manta,Akamai,42.35
-2021,Manta,Microsoft,23.87
-2021,Manta,Otros Servicios,20.02
-2021,Portoviejo,Netflix,45.375
-2021,Portoviejo,Facebook,87.12
-2021,Portoviejo,Google,92.565
-2021,Portoviejo,Zoom,25.41
-2021,Portoviejo,Disney+,24.2
-2021,Portoviejo,Akamai,33.275
-2021,Portoviejo,Microsoft,18.755
-2021,Portoviejo,Otros Servicios,15.73
-2021,Riobamba,Netflix,35.7328125
-2021,Riobamba,Facebook,66.3036
-2021,Riobamba,Google,63.2391375
-2021,Riobamba,Zoom,20.954175
-2021,Riobamba,Disney+,20.0585
-2021,Riobamba,Akamai,27.4360625
-2021,Riobamba,Microsoft,16.3579625
-2021,Riobamba,Otros Servicios,13.953775
-2021,Salinas,Netflix,28.05
-2021,Salinas,Facebook,53.856
-2021,Salinas,Google,57.222
-2021,Salinas,Zoom,15.708
-2021,Salinas,Disney+,14.96
-2021,Salinas,Akamai,20.57
-2021,Salinas,Microsoft,11.594
-2021,Salinas,Otros Servicios,9.724
-2021,Alausi,Netflix,8.085
-2021,Alausi,Facebook,15.5232
-2021,Alausi,Google,16.4934
-2021,Alausi,Zoom,4.5276
-2021,Alausi,Disney+,4.312
-2021,Alausi,Akamai,5.929
-2021,Alausi,Microsoft,3.3418
-2021,Alausi,Otros Servicios,2.8028
-2021,Atuntaqui,Netflix,13.552
-2021,Atuntaqui,Facebook,23.87
-2021,Atuntaqui,Google,18.634
-2021,Atuntaqui,Zoom,8.47
-2021,Atuntaqui,Disney+,8.162
-2021,Atuntaqui,Akamai,11.088
-2021,Atuntaqui,Microsoft,7.084
-2021,Atuntaqui,Otros Servicios,6.16
-2021,Babahoyo,Netflix,3.872
-2021,Babahoyo,Facebook,6.82
-2021,Babahoyo,Google,5.324
-2021,Babahoyo,Zoom,2.42
-2021,Babahoyo,Disney+,2.332
-2021,Babahoyo,Akamai,3.168
-2021,Babahoyo,Microsoft,2.024
-2021,Babahoyo,Otros Servicios,1.76
-2021,Jipijapa,Netflix,10.648
-2021,Jipijapa,Facebook,18.755
-2021,Jipijapa,Google,14.641
-2021,Jipijapa,Zoom,6.655
-2021,Jipijapa,Disney+,6.413
-2021,Jipijapa,Akamai,8.712
-2021,Jipijapa,Microsoft,5.566
-2021,Jipijapa,Otros Servicios,4.84
-2021,Virgendefatima,Netflix,4.84
-2021,Virgendefatima,Facebook,8.525
-2021,Virgendefatima,Google,6.655
-2021,Virgendefatima,Zoom,3.025
-2021,Virgendefatima,Disney+,2.915
-2021,Virgendefatima,Akamai,3.96
-2021,Virgendefatima,Microsoft,2.53
-2021,Virgendefatima,Otros Servicios,2.2
-2021,Shushufindi,Netflix,2.904
-2021,Shushufindi,Facebook,5.115
-2021,Shushufindi,Google,3.993
-2021,Shushufindi,Zoom,1.815
-2021,Shushufindi,Disney+,1.749
-2021,Shushufindi,Akamai,2.376
-2021,Shushufindi,Microsoft,1.518
-2021,Shushufindi,Otros Servicios,1.32
+2020,Alausi,Netflix,80.3
+2020,Alausi,Facebook,189.2
+2020,Alausi,Google,147.84
+2020,Alausi,Zoom,67.21
+2020,Alausi,Disney+,64.68
+2020,Alausi,Akamai,88
+2020,Alausi,Microsoft,56.21
+2020,Alausi,Otros Servicios,48.73
+2020,Ambato,Netflix,372.3
+2020,Ambato,Facebook,877.2
+2020,Ambato,Google,685.44
+2020,Ambato,Zoom,311.61
+2020,Ambato,Disney+,299.88
+2020,Ambato,Akamai,408
+2020,Ambato,Microsoft,260.61
+2020,Ambato,Otros Servicios,225.93
+2020,Atuntaqui,Netflix,116.8
+2020,Atuntaqui,Facebook,275.2
+2020,Atuntaqui,Google,215.04
+2020,Atuntaqui,Zoom,97.76
+2020,Atuntaqui,Disney+,94.08
+2020,Atuntaqui,Akamai,128
+2020,Atuntaqui,Microsoft,81.76
+2020,Atuntaqui,Otros Servicios,70.88
+2020,Babahoyo,Netflix,43.8
+2020,Babahoyo,Facebook,103.2
+2020,Babahoyo,Google,80.64
+2020,Babahoyo,Zoom,36.66
+2020,Babahoyo,Disney+,35.28
+2020,Babahoyo,Akamai,48
+2020,Babahoyo,Microsoft,30.66
+2020,Babahoyo,Otros Servicios,26.58
+2020,Balsas,Netflix,51.1
+2020,Balsas,Facebook,120.4
+2020,Balsas,Google,94.08
+2020,Balsas,Zoom,42.77
+2020,Balsas,Disney+,41.16
+2020,Balsas,Akamai,56
+2020,Balsas,Microsoft,35.77
+2020,Balsas,Otros Servicios,31.01
+2020,Balzar,Netflix,58.4
+2020,Balzar,Facebook,137.6
+2020,Balzar,Google,107.52
+2020,Balzar,Zoom,48.88
+2020,Balzar,Disney+,47.04
+2020,Balzar,Akamai,64
+2020,Balzar,Microsoft,40.88
+2020,Balzar,Otros Servicios,35.44
+2020,Banos,Netflix,467.2
+2020,Banos,Facebook,1100.8
+2020,Banos,Google,860.16
+2020,Banos,Zoom,391.04
+2020,Banos,Disney+,376.32
+2020,Banos,Akamai,512
+2020,Banos,Microsoft,327.04
+2020,Banos,Otros Servicios,283.52
+2020,Cayambe,Netflix,532.9
+2020,Cayambe,Facebook,1255.6
+2020,Cayambe,Google,981.12
+2020,Cayambe,Zoom,446.03
+2020,Cayambe,Disney+,429.24
+2020,Cayambe,Akamai,584
+2020,Cayambe,Microsoft,373.03
+2020,Cayambe,Otros Servicios,323.39
+2020,Coca,Netflix,328.5
+2020,Coca,Facebook,774
+2020,Coca,Google,604.8
+2020,Coca,Zoom,274.95
+2020,Coca,Disney+,264.6
+2020,Coca,Akamai,360
+2020,Coca,Microsoft,229.95
+2020,Coca,Otros Servicios,199.35
+2020,Cotacachi,Netflix,175.2
+2020,Cotacachi,Facebook,412.8
+2020,Cotacachi,Google,322.56
+2020,Cotacachi,Zoom,146.64
+2020,Cotacachi,Disney+,141.12
+2020,Cotacachi,Akamai,192
+2020,Cotacachi,Microsoft,122.64
+2020,Cotacachi,Otros Servicios,106.32
+2020,Cuenca,Netflix,372.3
+2020,Cuenca,Facebook,877.2
+2020,Cuenca,Google,685.44
+2020,Cuenca,Zoom,311.61
+2020,Cuenca,Disney+,299.88
+2020,Cuenca,Akamai,408
+2020,Cuenca,Microsoft,260.61
+2020,Cuenca,Otros Servicios,225.93
+2020,Daule,Netflix,467.2
+2020,Daule,Facebook,1100.8
+2020,Daule,Google,860.16
+2020,Daule,Zoom,391.04
+2020,Daule,Disney+,376.32
+2020,Daule,Akamai,512
+2020,Daule,Microsoft,327.04
+2020,Daule,Otros Servicios,283.52
+2020,Duran,Netflix,211.7
+2020,Duran,Facebook,498.8
+2020,Duran,Google,389.76
+2020,Duran,Zoom,177.19
+2020,Duran,Disney+,170.52
+2020,Duran,Akamai,232
+2020,Duran,Microsoft,148.19
+2020,Duran,Otros Servicios,128.47
+2020,Esmeraldas,Netflix,226.3
+2020,Esmeraldas,Facebook,533.2
+2020,Esmeraldas,Google,416.64
+2020,Esmeraldas,Zoom,189.41
+2020,Esmeraldas,Disney+,182.28
+2020,Esmeraldas,Akamai,248
+2020,Esmeraldas,Microsoft,158.41
+2020,Esmeraldas,Otros Servicios,137.33
+2020,Guayaquil,Netflix,518.3
+2020,Guayaquil,Facebook,1221.2
+2020,Guayaquil,Google,954.24
+2020,Guayaquil,Zoom,433.81
+2020,Guayaquil,Disney+,417.48
+2020,Guayaquil,Akamai,568
+2020,Guayaquil,Microsoft,362.81
+2020,Guayaquil,Otros Servicios,314.53
+2020,Guaranda,Netflix,248.2
+2020,Guaranda,Facebook,584.8
+2020,Guaranda,Google,456.96
+2020,Guaranda,Zoom,207.74
+2020,Guaranda,Disney+,199.92
+2020,Guaranda,Akamai,272
+2020,Guaranda,Microsoft,173.74
+2020,Guaranda,Otros Servicios,150.62
+2020,Ibarra,Netflix,233.6
+2020,Ibarra,Facebook,550.4
+2020,Ibarra,Google,430.08
+2020,Ibarra,Zoom,195.52
+2020,Ibarra,Disney+,188.16
+2020,Ibarra,Akamai,256
+2020,Ibarra,Microsoft,163.52
+2020,Ibarra,Otros Servicios,141.76
+2020,Jipijapa,Netflix,160.6
+2020,Jipijapa,Facebook,378.4
+2020,Jipijapa,Google,295.68
+2020,Jipijapa,Zoom,134.42
+2020,Jipijapa,Disney+,129.36
+2020,Jipijapa,Akamai,176
+2020,Jipijapa,Microsoft,112.42
+2020,Jipijapa,Otros Servicios,97.46
+2020,Lagoagrio,Netflix,175.2
+2020,Lagoagrio,Facebook,412.8
+2020,Lagoagrio,Google,322.56
+2020,Lagoagrio,Zoom,146.64
+2020,Lagoagrio,Disney+,141.12
+2020,Lagoagrio,Akamai,192
+2020,Lagoagrio,Microsoft,122.64
+2020,Lagoagrio,Otros Servicios,106.32
+2020,Latacunga,Netflix,627.8
+2020,Latacunga,Facebook,1479.2
+2020,Latacunga,Google,1155.84
+2020,Latacunga,Zoom,525.46
+2020,Latacunga,Disney+,505.68
+2020,Latacunga,Akamai,688
+2020,Latacunga,Microsoft,439.46
+2020,Latacunga,Otros Servicios,380.98
+2020,Loja,Netflix,386.9
+2020,Loja,Facebook,911.6
+2020,Loja,Google,712.32
+2020,Loja,Zoom,323.83
+2020,Loja,Disney+,311.64
+2020,Loja,Akamai,424
+2020,Loja,Microsoft,270.83
+2020,Loja,Otros Servicios,234.79
+2020,Macas,Netflix,94.9
+2020,Macas,Facebook,223.6
+2020,Macas,Google,174.72
+2020,Macas,Zoom,79.43
+2020,Macas,Disney+,76.44
+2020,Macas,Akamai,104
+2020,Macas,Microsoft,66.43
+2020,Macas,Otros Servicios,57.59
+2020,Machala,Netflix,468.66
+2020,Machala,Facebook,1104.24
+2020,Machala,Google,862.848
+2020,Machala,Zoom,392.262
+2020,Machala,Disney+,377.496
+2020,Machala,Akamai,513.6
+2020,Machala,Microsoft,328.062
+2020,Machala,Otros Servicios,284.406
+2020,Manta,Netflix,481.8
+2020,Manta,Facebook,1135.2
+2020,Manta,Google,887.04
+2020,Manta,Zoom,403.26
+2020,Manta,Disney+,388.08
+2020,Manta,Akamai,528
+2020,Manta,Microsoft,337.26
+2020,Manta,Otros Servicios,292.38
+2020,Milagro,Netflix,357.7
+2020,Milagro,Facebook,842.8
+2020,Milagro,Google,658.56
+2020,Milagro,Zoom,299.39
+2020,Milagro,Disney+,288.12
+2020,Milagro,Akamai,392
+2020,Milagro,Microsoft,250.39
+2020,Milagro,Otros Servicios,217.07
+2020,Montecristi,Netflix,306.6
+2020,Montecristi,Facebook,722.4
+2020,Montecristi,Google,564.48
+2020,Montecristi,Zoom,256.62
+2020,Montecristi,Disney+,246.96
+2020,Montecristi,Akamai,336
+2020,Montecristi,Microsoft,214.62
+2020,Montecristi,Otros Servicios,186.06
+2020,Naranjal,Netflix,175.2
+2020,Naranjal,Facebook,412.8
+2020,Naranjal,Google,322.56
+2020,Naranjal,Zoom,146.64
+2020,Naranjal,Disney+,141.12
+2020,Naranjal,Akamai,192
+2020,Naranjal,Microsoft,122.64
+2020,Naranjal,Otros Servicios,106.32
+2020,Otavalo,Netflix,197.1
+2020,Otavalo,Facebook,464.4
+2020,Otavalo,Google,362.88
+2020,Otavalo,Zoom,164.97
+2020,Otavalo,Disney+,158.76
+2020,Otavalo,Akamai,216
+2020,Otavalo,Microsoft,137.97
+2020,Otavalo,Otros Servicios,119.61
+2020,Palestina,Netflix,171.55
+2020,Palestina,Facebook,404.2
+2020,Palestina,Google,315.84
+2020,Palestina,Zoom,143.585
+2020,Palestina,Disney+,138.18
+2020,Palestina,Akamai,188
+2020,Palestina,Microsoft,120.085
+2020,Palestina,Otros Servicios,104.105
+2020,Pasaje,Netflix,131.4
+2020,Pasaje,Facebook,309.6
+2020,Pasaje,Google,241.92
+2020,Pasaje,Zoom,109.98
+2020,Pasaje,Disney+,105.84
+2020,Pasaje,Akamai,144
+2020,Pasaje,Microsoft,91.98
+2020,Pasaje,Otros Servicios,79.74
+2020,Pedernales,Netflix,116.8
+2020,Pedernales,Facebook,275.2
+2020,Pedernales,Google,215.04
+2020,Pedernales,Zoom,97.76
+2020,Pedernales,Disney+,94.08
+2020,Pedernales,Akamai,128
+2020,Pedernales,Microsoft,81.76
+2020,Pedernales,Otros Servicios,70.88
+2020,Pifo,Netflix,116.8
+2020,Pifo,Facebook,275.2
+2020,Pifo,Google,215.04
+2020,Pifo,Zoom,97.76
+2020,Pifo,Disney+,94.08
+2020,Pifo,Akamai,128
+2020,Pifo,Microsoft,81.76
+2020,Pifo,Otros Servicios,70.88
+2020,Pinas,Netflix,131.4
+2020,Pinas,Facebook,309.6
+2020,Pinas,Google,241.92
+2020,Pinas,Zoom,109.98
+2020,Pinas,Disney+,105.84
+2020,Pinas,Akamai,144
+2020,Pinas,Microsoft,91.98
+2020,Pinas,Otros Servicios,79.74
+2020,Playas,Netflix,94.9
+2020,Playas,Facebook,223.6
+2020,Playas,Google,174.72
+2020,Playas,Zoom,79.43
+2020,Playas,Disney+,76.44
+2020,Playas,Akamai,104
+2020,Playas,Microsoft,66.43
+2020,Playas,Otros Servicios,57.59
+2020,Portoviejo,Netflix,124.1
+2020,Portoviejo,Facebook,292.4
+2020,Portoviejo,Google,228.48
+2020,Portoviejo,Zoom,103.87
+2020,Portoviejo,Disney+,99.96
+2020,Portoviejo,Akamai,136
+2020,Portoviejo,Microsoft,86.87
+2020,Portoviejo,Otros Servicios,75.31
+2020,Posorja,Netflix,94.9
+2020,Posorja,Facebook,223.6
+2020,Posorja,Google,174.72
+2020,Posorja,Zoom,79.43
+2020,Posorja,Disney+,76.44
+2020,Posorja,Akamai,104
+2020,Posorja,Microsoft,66.43
+2020,Posorja,Otros Servicios,57.59
+2020,Progreso,Netflix,73
+2020,Progreso,Facebook,172
+2020,Progreso,Google,134.4
+2020,Progreso,Zoom,61.1
+2020,Progreso,Disney+,58.8
+2020,Progreso,Akamai,80
+2020,Progreso,Microsoft,51.1
+2020,Progreso,Otros Servicios,44.3
+2020,Puyo,Netflix,69.35
+2020,Puyo,Facebook,163.4
+2020,Puyo,Google,127.68
+2020,Puyo,Zoom,58.045
+2020,Puyo,Disney+,55.86
+2020,Puyo,Akamai,76
+2020,Puyo,Microsoft,48.545
+2020,Puyo,Otros Servicios,42.085
+2020,Quininde,Netflix,75.19
+2020,Quininde,Facebook,177.16
+2020,Quininde,Google,138.432
+2020,Quininde,Zoom,62.933
+2020,Quininde,Disney+,60.564
+2020,Quininde,Akamai,82.4
+2020,Quininde,Microsoft,52.633
+2020,Quininde,Otros Servicios,45.629
+2020,Quevedo,Netflix,70.08
+2020,Quevedo,Facebook,165.12
+2020,Quevedo,Google,129.024
+2020,Quevedo,Zoom,58.656
+2020,Quevedo,Disney+,56.448
+2020,Quevedo,Akamai,76.8
+2020,Quevedo,Microsoft,49.056
+2020,Quevedo,Otros Servicios,42.528
+2020,Riobamba,Netflix,69.35
+2020,Riobamba,Facebook,163.4
+2020,Riobamba,Google,127.68
+2020,Riobamba,Zoom,58.045
+2020,Riobamba,Disney+,55.86
+2020,Riobamba,Akamai,76
+2020,Riobamba,Microsoft,48.545
+2020,Riobamba,Otros Servicios,42.085
+2020,Salcedo,Netflix,70.81
+2020,Salcedo,Facebook,166.84
+2020,Salcedo,Google,130.368
+2020,Salcedo,Zoom,59.267
+2020,Salcedo,Disney+,57.036
+2020,Salcedo,Akamai,77.6
+2020,Salcedo,Microsoft,49.567
+2020,Salcedo,Otros Servicios,42.971
+2020,Salinas,Netflix,146
+2020,Salinas,Facebook,344
+2020,Salinas,Google,268.8
+2020,Salinas,Zoom,122.2
+2020,Salinas,Disney+,117.6
+2020,Salinas,Akamai,160
+2020,Salinas,Microsoft,102.2
+2020,Salinas,Otros Servicios,88.6
+2020,Santarosa,Netflix,131.4
+2020,Santarosa,Facebook,309.6
+2020,Santarosa,Google,241.92
+2020,Santarosa,Zoom,109.98
+2020,Santarosa,Disney+,105.84
+2020,Santarosa,Akamai,144
+2020,Santarosa,Microsoft,91.98
+2020,Santarosa,Otros Servicios,79.74
+2020,Shushufindi,Netflix,95.63
+2020,Shushufindi,Facebook,225.32
+2020,Shushufindi,Google,176.064
+2020,Shushufindi,Zoom,80.041
+2020,Shushufindi,Disney+,77.028
+2020,Shushufindi,Akamai,104.8
+2020,Shushufindi,Microsoft,66.941
+2020,Shushufindi,Otros Servicios,58.033
+2020,Stodomingo,Netflix,164.25
+2020,Stodomingo,Facebook,387
+2020,Stodomingo,Google,302.4
+2020,Stodomingo,Zoom,137.475
+2020,Stodomingo,Disney+,132.3
+2020,Stodomingo,Akamai,180
+2020,Stodomingo,Microsoft,114.975
+2020,Stodomingo,Otros Servicios,99.675
+2020,Tabacundo,Netflix,179.58
+2020,Tabacundo,Facebook,423.12
+2020,Tabacundo,Google,330.624
+2020,Tabacundo,Zoom,150.306
+2020,Tabacundo,Disney+,144.648
+2020,Tabacundo,Akamai,196.8
+2020,Tabacundo,Microsoft,125.706
+2020,Tabacundo,Otros Servicios,108.978
+2020,Tarifa,Netflix,36.5
+2020,Tarifa,Facebook,86
+2020,Tarifa,Google,67.2
+2020,Tarifa,Zoom,30.55
+2020,Tarifa,Disney+,29.4
+2020,Tarifa,Akamai,40
+2020,Tarifa,Microsoft,25.55
+2020,Tarifa,Otros Servicios,22.15
+2020,Tena,Netflix,197.1
+2020,Tena,Facebook,464.4
+2020,Tena,Google,362.88
+2020,Tena,Zoom,164.97
+2020,Tena,Disney+,158.76
+2020,Tena,Akamai,216
+2020,Tena,Microsoft,137.97
+2020,Tena,Otros Servicios,119.61
+2020,Tonsupa,Netflix,186.15
+2020,Tonsupa,Facebook,438.6
+2020,Tonsupa,Google,342.72
+2020,Tonsupa,Zoom,155.805
+2020,Tonsupa,Disney+,149.94
+2020,Tonsupa,Akamai,204
+2020,Tonsupa,Microsoft,130.305
+2020,Tonsupa,Otros Servicios,112.965
+2020,Tulcan,Netflix,254.04
+2020,Tulcan,Facebook,598.56
+2020,Tulcan,Google,467.712
+2020,Tulcan,Zoom,212.628
+2020,Tulcan,Disney+,204.624
+2020,Tulcan,Akamai,278.4
+2020,Tulcan,Microsoft,177.828
+2020,Tulcan,Otros Servicios,154.164
+2020,Quito,Netflix,591.3
+2020,Quito,Facebook,1393.2
+2020,Quito,Google,1088.64
+2020,Quito,Zoom,494.91
+2020,Quito,Disney+,476.28
+2020,Quito,Akamai,648
+2020,Quito,Microsoft,413.91
+2020,Quito,Otros Servicios,358.83
+2020,Vinces,Netflix,175.2
+2020,Vinces,Facebook,412.8
+2020,Vinces,Google,322.56
+2020,Vinces,Zoom,146.64
+2020,Vinces,Disney+,141.12
+2020,Vinces,Akamai,192
+2020,Vinces,Microsoft,122.64
+2020,Vinces,Otros Servicios,106.32
+2020,Virgendefatima,Netflix,116.8
+2020,Virgendefatima,Facebook,275.2
+2020,Virgendefatima,Google,215.04
+2020,Virgendefatima,Zoom,97.76
+2020,Virgendefatima,Disney+,94.08
+2020,Virgendefatima,Akamai,128
+2020,Virgendefatima,Microsoft,81.76
+2020,Virgendefatima,Otros Servicios,70.88
+2020,Zaruma,Netflix,219
+2020,Zaruma,Facebook,516
+2020,Zaruma,Google,403.2
+2020,Zaruma,Zoom,183.3
+2020,Zaruma,Disney+,176.4
+2020,Zaruma,Akamai,240
+2020,Zaruma,Microsoft,153.3
+2020,Zaruma,Otros Servicios,132.9
+2021,Alausi,Netflix,40.15
+2021,Alausi,Facebook,94.6
+2021,Alausi,Google,73.92
+2021,Alausi,Zoom,33.605
+2021,Alausi,Disney+,32.34
+2021,Alausi,Akamai,44
+2021,Alausi,Microsoft,28.105
+2021,Alausi,Otros Servicios,24.365
+2021,Ambato,Netflix,186.15
+2021,Ambato,Facebook,438.6
+2021,Ambato,Google,342.72
+2021,Ambato,Zoom,155.805
+2021,Ambato,Disney+,149.94
+2021,Ambato,Akamai,204
+2021,Ambato,Microsoft,130.305
+2021,Ambato,Otros Servicios,112.965
+2021,Atuntaqui,Netflix,58.4
+2021,Atuntaqui,Facebook,137.6
+2021,Atuntaqui,Google,107.52
+2021,Atuntaqui,Zoom,48.88
+2021,Atuntaqui,Disney+,47.04
+2021,Atuntaqui,Akamai,64
+2021,Atuntaqui,Microsoft,40.88
+2021,Atuntaqui,Otros Servicios,35.44
+2021,Babahoyo,Netflix,21.9
+2021,Babahoyo,Facebook,51.6
+2021,Babahoyo,Google,40.32
+2021,Babahoyo,Zoom,18.33
+2021,Babahoyo,Disney+,17.64
+2021,Babahoyo,Akamai,24
+2021,Babahoyo,Microsoft,15.33
+2021,Babahoyo,Otros Servicios,13.29
+2021,Balsas,Netflix,25.55
+2021,Balsas,Facebook,60.2
+2021,Balsas,Google,47.04
+2021,Balsas,Zoom,21.385
+2021,Balsas,Disney+,20.58
+2021,Balsas,Akamai,28
+2021,Balsas,Microsoft,17.885
+2021,Balsas,Otros Servicios,15.505
+2021,Balzar,Netflix,29.2
+2021,Balzar,Facebook,68.8
+2021,Balzar,Google,53.76
+2021,Balzar,Zoom,24.44
+2021,Balzar,Disney+,23.52
+2021,Balzar,Akamai,32
+2021,Balzar,Microsoft,20.44
+2021,Balzar,Otros Servicios,17.72
+2021,Banos,Netflix,233.6
+2021,Banos,Facebook,550.4
+2021,Banos,Google,430.08
+2021,Banos,Zoom,195.52
+2021,Banos,Disney+,188.16
+2021,Banos,Akamai,256
+2021,Banos,Microsoft,163.52
+2021,Banos,Otros Servicios,141.76
+2021,Cayambe,Netflix,266.45
+2021,Cayambe,Facebook,627.8
+2021,Cayambe,Google,490.56
+2021,Cayambe,Zoom,223.015
+2021,Cayambe,Disney+,214.62
+2021,Cayambe,Akamai,292
+2021,Cayambe,Microsoft,186.515
+2021,Cayambe,Otros Servicios,161.695
+2021,Coca,Netflix,164.25
+2021,Coca,Facebook,387
+2021,Coca,Google,302.4
+2021,Coca,Zoom,137.475
+2021,Coca,Disney+,132.3
+2021,Coca,Akamai,180
+2021,Coca,Microsoft,114.975
+2021,Coca,Otros Servicios,99.675
+2021,Cotacachi,Netflix,87.6
+2021,Cotacachi,Facebook,206.4
+2021,Cotacachi,Google,161.28
+2021,Cotacachi,Zoom,73.32
+2021,Cotacachi,Disney+,70.56
+2021,Cotacachi,Akamai,96
+2021,Cotacachi,Microsoft,61.32
+2021,Cotacachi,Otros Servicios,53.16
+2021,Cuenca,Netflix,186.15
+2021,Cuenca,Facebook,438.6
+2021,Cuenca,Google,342.72
+2021,Cuenca,Zoom,155.805
+2021,Cuenca,Disney+,149.94
+2021,Cuenca,Akamai,204
+2021,Cuenca,Microsoft,130.305
+2021,Cuenca,Otros Servicios,112.965
+2021,Daule,Netflix,233.6
+2021,Daule,Facebook,550.4
+2021,Daule,Google,430.08
+2021,Daule,Zoom,195.52
+2021,Daule,Disney+,188.16
+2021,Daule,Akamai,256
+2021,Daule,Microsoft,163.52
+2021,Daule,Otros Servicios,141.76
+2021,Duran,Netflix,105.85
+2021,Duran,Facebook,249.4
+2021,Duran,Google,194.88
+2021,Duran,Zoom,88.595
+2021,Duran,Disney+,85.26
+2021,Duran,Akamai,116
+2021,Duran,Microsoft,74.095
+2021,Duran,Otros Servicios,64.235
+2021,Esmeraldas,Netflix,113.15
+2021,Esmeraldas,Facebook,266.6
+2021,Esmeraldas,Google,208.32
+2021,Esmeraldas,Zoom,94.705
+2021,Esmeraldas,Disney+,91.14
+2021,Esmeraldas,Akamai,124
+2021,Esmeraldas,Microsoft,79.205
+2021,Esmeraldas,Otros Servicios,68.665
+2021,Guayaquil,Netflix,259.15
+2021,Guayaquil,Facebook,610.6
+2021,Guayaquil,Google,477.12
+2021,Guayaquil,Zoom,216.905
+2021,Guayaquil,Disney+,208.74
+2021,Guayaquil,Akamai,284
+2021,Guayaquil,Microsoft,181.405
+2021,Guayaquil,Otros Servicios,157.265
+2021,Guaranda,Netflix,124.1
+2021,Guaranda,Facebook,292.4
+2021,Guaranda,Google,228.48
+2021,Guaranda,Zoom,103.87
+2021,Guaranda,Disney+,99.96
+2021,Guaranda,Akamai,136
+2021,Guaranda,Microsoft,86.87
+2021,Guaranda,Otros Servicios,75.31
+2021,Ibarra,Netflix,116.8
+2021,Ibarra,Facebook,275.2
+2021,Ibarra,Google,215.04
+2021,Ibarra,Zoom,97.76
+2021,Ibarra,Disney+,94.08
+2021,Ibarra,Akamai,128
+2021,Ibarra,Microsoft,81.76
+2021,Ibarra,Otros Servicios,70.88
+2021,Jipijapa,Netflix,80.3
+2021,Jipijapa,Facebook,189.2
+2021,Jipijapa,Google,147.84
+2021,Jipijapa,Zoom,67.21
+2021,Jipijapa,Disney+,64.68
+2021,Jipijapa,Akamai,88
+2021,Jipijapa,Microsoft,56.21
+2021,Jipijapa,Otros Servicios,48.73
+2021,Lagoagrio,Netflix,87.6
+2021,Lagoagrio,Facebook,206.4
+2021,Lagoagrio,Google,161.28
+2021,Lagoagrio,Zoom,73.32
+2021,Lagoagrio,Disney+,70.56
+2021,Lagoagrio,Akamai,96
+2021,Lagoagrio,Microsoft,61.32
+2021,Lagoagrio,Otros Servicios,53.16
+2021,Latacunga,Netflix,313.9
+2021,Latacunga,Facebook,739.6
+2021,Latacunga,Google,577.92
+2021,Latacunga,Zoom,262.73
+2021,Latacunga,Disney+,252.84
+2021,Latacunga,Akamai,344
+2021,Latacunga,Microsoft,219.73
+2021,Latacunga,Otros Servicios,190.49
+2021,Loja,Netflix,193.45
+2021,Loja,Facebook,455.8
+2021,Loja,Google,356.16
+2021,Loja,Zoom,161.915
+2021,Loja,Disney+,155.82
+2021,Loja,Akamai,212
+2021,Loja,Microsoft,135.415
+2021,Loja,Otros Servicios,117.395
+2021,Macas,Netflix,47.45
+2021,Macas,Facebook,111.8
+2021,Macas,Google,87.36
+2021,Macas,Zoom,39.715
+2021,Macas,Disney+,38.22
+2021,Macas,Akamai,52
+2021,Macas,Microsoft,33.215
+2021,Macas,Otros Servicios,28.795
+2021,Machala,Netflix,234.33
+2021,Machala,Facebook,552.12
+2021,Machala,Google,431.424
+2021,Machala,Zoom,196.131
+2021,Machala,Disney+,188.748
+2021,Machala,Akamai,256.8
+2021,Machala,Microsoft,164.031
+2021,Machala,Otros Servicios,142.203
+2021,Manta,Netflix,240.9
+2021,Manta,Facebook,567.6
+2021,Manta,Google,443.52
+2021,Manta,Zoom,201.63
+2021,Manta,Disney+,194.04
+2021,Manta,Akamai,264
+2021,Manta,Microsoft,168.63
+2021,Manta,Otros Servicios,146.19
+2021,Milagro,Netflix,178.85
+2021,Milagro,Facebook,421.4
+2021,Milagro,Google,329.28
+2021,Milagro,Zoom,149.695
+2021,Milagro,Disney+,144.06
+2021,Milagro,Akamai,196
+2021,Milagro,Microsoft,125.195
+2021,Milagro,Otros Servicios,108.535
+2021,Montecristi,Netflix,153.3
+2021,Montecristi,Facebook,361.2
+2021,Montecristi,Google,282.24
+2021,Montecristi,Zoom,128.31
+2021,Montecristi,Disney+,123.48
+2021,Montecristi,Akamai,168
+2021,Montecristi,Microsoft,107.31
+2021,Montecristi,Otros Servicios,93.03
+2021,Naranjal,Netflix,87.6
+2021,Naranjal,Facebook,206.4
+2021,Naranjal,Google,161.28
+2021,Naranjal,Zoom,73.32
+2021,Naranjal,Disney+,70.56
+2021,Naranjal,Akamai,96
+2021,Naranjal,Microsoft,61.32
+2021,Naranjal,Otros Servicios,53.16
+2021,Otavalo,Netflix,98.55
+2021,Otavalo,Facebook,232.2
+2021,Otavalo,Google,181.44
+2021,Otavalo,Zoom,82.485
+2021,Otavalo,Disney+,79.38
+2021,Otavalo,Akamai,108
+2021,Otavalo,Microsoft,68.985
+2021,Otavalo,Otros Servicios,59.805
+2021,Palestina,Netflix,85.775
+2021,Palestina,Facebook,202.1
+2021,Palestina,Google,157.92
+2021,Palestina,Zoom,71.7925
+2021,Palestina,Disney+,69.09
+2021,Palestina,Akamai,94
+2021,Palestina,Microsoft,60.0425
+2021,Palestina,Otros Servicios,52.0525
+2021,Pasaje,Netflix,65.7
+2021,Pasaje,Facebook,154.8
+2021,Pasaje,Google,120.96
+2021,Pasaje,Zoom,54.99
+2021,Pasaje,Disney+,52.92
+2021,Pasaje,Akamai,72
+2021,Pasaje,Microsoft,45.99
+2021,Pasaje,Otros Servicios,39.87
+2021,Pedernales,Netflix,58.4
+2021,Pedernales,Facebook,137.6
+2021,Pedernales,Google,107.52
+2021,Pedernales,Zoom,48.88
+2021,Pedernales,Disney+,47.04
+2021,Pedernales,Akamai,64
+2021,Pedernales,Microsoft,40.88
+2021,Pedernales,Otros Servicios,35.44
+2021,Pifo,Netflix,58.4
+2021,Pifo,Facebook,137.6
+2021,Pifo,Google,107.52
+2021,Pifo,Zoom,48.88
+2021,Pifo,Disney+,47.04
+2021,Pifo,Akamai,64
+2021,Pifo,Microsoft,40.88
+2021,Pifo,Otros Servicios,35.44
+2021,Pinas,Netflix,65.7
+2021,Pinas,Facebook,154.8
+2021,Pinas,Google,120.96
+2021,Pinas,Zoom,54.99
+2021,Pinas,Disney+,52.92
+2021,Pinas,Akamai,72
+2021,Pinas,Microsoft,45.99
+2021,Pinas,Otros Servicios,39.87
+2021,Playas,Netflix,47.45
+2021,Playas,Facebook,111.8
+2021,Playas,Google,87.36
+2021,Playas,Zoom,39.715
+2021,Playas,Disney+,38.22
+2021,Playas,Akamai,52
+2021,Playas,Microsoft,33.215
+2021,Playas,Otros Servicios,28.795
+2021,Portoviejo,Netflix,62.05
+2021,Portoviejo,Facebook,146.2
+2021,Portoviejo,Google,114.24
+2021,Portoviejo,Zoom,51.935
+2021,Portoviejo,Disney+,49.98
+2021,Portoviejo,Akamai,68
+2021,Portoviejo,Microsoft,43.435
+2021,Portoviejo,Otros Servicios,37.655
+2021,Posorja,Netflix,47.45
+2021,Posorja,Facebook,111.8
+2021,Posorja,Google,87.36
+2021,Posorja,Zoom,39.715
+2021,Posorja,Disney+,38.22
+2021,Posorja,Akamai,52
+2021,Posorja,Microsoft,33.215
+2021,Posorja,Otros Servicios,28.795
+2021,Progreso,Netflix,36.5
+2021,Progreso,Facebook,86
+2021,Progreso,Google,67.2
+2021,Progreso,Zoom,30.55
+2021,Progreso,Disney+,29.4
+2021,Progreso,Akamai,40
+2021,Progreso,Microsoft,25.55
+2021,Progreso,Otros Servicios,22.15
+2021,Puyo,Netflix,34.675
+2021,Puyo,Facebook,81.7
+2021,Puyo,Google,63.84
+2021,Puyo,Zoom,29.0225
+2021,Puyo,Disney+,27.93
+2021,Puyo,Akamai,38
+2021,Puyo,Microsoft,24.2725
+2021,Puyo,Otros Servicios,21.0425
+2021,Quininde,Netflix,37.595
+2021,Quininde,Facebook,88.58
+2021,Quininde,Google,69.216
+2021,Quininde,Zoom,31.4665
+2021,Quininde,Disney+,30.282
+2021,Quininde,Akamai,41.2
+2021,Quininde,Microsoft,26.3165
+2021,Quininde,Otros Servicios,22.8145
+2021,Quevedo,Netflix,35.04
+2021,Quevedo,Facebook,82.56
+2021,Quevedo,Google,64.512
+2021,Quevedo,Zoom,29.328
+2021,Quevedo,Disney+,28.224
+2021,Quevedo,Akamai,38.4
+2021,Quevedo,Microsoft,24.528
+2021,Quevedo,Otros Servicios,21.264
+2021,Riobamba,Netflix,34.675
+2021,Riobamba,Facebook,81.7
+2021,Riobamba,Google,63.84
+2021,Riobamba,Zoom,29.0225
+2021,Riobamba,Disney+,27.93
+2021,Riobamba,Akamai,38
+2021,Riobamba,Microsoft,24.2725
+2021,Riobamba,Otros Servicios,21.0425
+2021,Salcedo,Netflix,35.405
+2021,Salcedo,Facebook,83.42
+2021,Salcedo,Google,65.184
+2021,Salcedo,Zoom,29.6335
+2021,Salcedo,Disney+,28.518
+2021,Salcedo,Akamai,38.8
+2021,Salcedo,Microsoft,24.7835
+2021,Salcedo,Otros Servicios,21.4855
+2021,Salinas,Netflix,73
+2021,Salinas,Facebook,172
+2021,Salinas,Google,134.4
+2021,Salinas,Zoom,61.1
+2021,Salinas,Disney+,58.8
+2021,Salinas,Akamai,80
+2021,Salinas,Microsoft,51.1
+2021,Salinas,Otros Servicios,44.3
+2021,Santarosa,Netflix,65.7
+2021,Santarosa,Facebook,154.8
+2021,Santarosa,Google,120.96
+2021,Santarosa,Zoom,54.99
+2021,Santarosa,Disney+,52.92
+2021,Santarosa,Akamai,72
+2021,Santarosa,Microsoft,45.99
+2021,Santarosa,Otros Servicios,39.87
+2021,Shushufindi,Netflix,47.815
+2021,Shushufindi,Facebook,112.66
+2021,Shushufindi,Google,88.032
+2021,Shushufindi,Zoom,40.0205
+2021,Shushufindi,Disney+,38.514
+2021,Shushufindi,Akamai,52.4
+2021,Shushufindi,Microsoft,33.4705
+2021,Shushufindi,Otros Servicios,29.0165
+2021,Stodomingo,Netflix,82.125
+2021,Stodomingo,Facebook,193.5
+2021,Stodomingo,Google,151.2
+2021,Stodomingo,Zoom,68.7375
+2021,Stodomingo,Disney+,66.15
+2021,Stodomingo,Akamai,90
+2021,Stodomingo,Microsoft,57.4875
+2021,Stodomingo,Otros Servicios,49.8375
+2021,Tabacundo,Netflix,89.79
+2021,Tabacundo,Facebook,211.56
+2021,Tabacundo,Google,165.312
+2021,Tabacundo,Zoom,75.153
+2021,Tabacundo,Disney+,72.324
+2021,Tabacundo,Akamai,98.4
+2021,Tabacundo,Microsoft,62.853
+2021,Tabacundo,Otros Servicios,54.489
+2021,Tarifa,Netflix,18.25
+2021,Tarifa,Facebook,43
+2021,Tarifa,Google,33.6
+2021,Tarifa,Zoom,15.275
+2021,Tarifa,Disney+,14.7
+2021,Tarifa,Akamai,20
+2021,Tarifa,Microsoft,12.775
+2021,Tarifa,Otros Servicios,11.075
+2021,Tena,Netflix,98.55
+2021,Tena,Facebook,232.2
+2021,Tena,Google,181.44
+2021,Tena,Zoom,82.485
+2021,Tena,Disney+,79.38
+2021,Tena,Akamai,108
+2021,Tena,Microsoft,68.985
+2021,Tena,Otros Servicios,59.805
+2021,Tonsupa,Netflix,93.075
+2021,Tonsupa,Facebook,219.3
+2021,Tonsupa,Google,171.36
+2021,Tonsupa,Zoom,77.9025
+2021,Tonsupa,Disney+,74.97
+2021,Tonsupa,Akamai,102
+2021,Tonsupa,Microsoft,65.1525
+2021,Tonsupa,Otros Servicios,56.4825
+2021,Tulcan,Netflix,127.02
+2021,Tulcan,Facebook,299.28
+2021,Tulcan,Google,233.856
+2021,Tulcan,Zoom,106.314
+2021,Tulcan,Disney+,102.312
+2021,Tulcan,Akamai,139.2
+2021,Tulcan,Microsoft,88.914
+2021,Tulcan,Otros Servicios,77.082
+2021,Quito,Netflix,275
+2021,Quito,Facebook,596.6
+2021,Quito,Google,444.32
+2021,Quito,Zoom,247.455
+2021,Quito,Disney+,238.14
+2021,Quito,Akamai,324
+2021,Quito,Microsoft,206.955
+2021,Quito,Otros Servicios,179.415
+2021,Vinces,Netflix,87.6
+2021,Vinces,Facebook,206.4
+2021,Vinces,Google,161.28
+2021,Vinces,Zoom,73.32
+2021,Vinces,Disney+,70.56
+2021,Vinces,Akamai,96
+2021,Vinces,Microsoft,61.32
+2021,Vinces,Otros Servicios,53.16
+2021,Virgendefatima,Netflix,58.4
+2021,Virgendefatima,Facebook,137.6
+2021,Virgendefatima,Google,107.52
+2021,Virgendefatima,Zoom,48.88
+2021,Virgendefatima,Disney+,47.04
+2021,Virgendefatima,Akamai,64
+2021,Virgendefatima,Microsoft,40.88
+2021,Virgendefatima,Otros Servicios,35.44
+2021,Zaruma,Netflix,109.5
+2021,Zaruma,Facebook,258
+2021,Zaruma,Google,201.6
+2021,Zaruma,Zoom,91.65
+2021,Zaruma,Disney+,88.2
+2021,Zaruma,Akamai,120
+2021,Zaruma,Microsoft,76.65
+2021,Zaruma,Otros Servicios,66.45
